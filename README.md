@@ -1,0 +1,1 @@
+# Mini App para imprimir recibos en una impresora termica, usando capacitor
